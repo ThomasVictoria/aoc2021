@@ -1,8 +1,8 @@
-###ℹ️ Quel est le problème que cette PR résoud ? ℹ️
+### ℹ️ Quel est le problème que cette PR résoud ? ℹ️
 
 [...]
 
-###📜 Checklist avant le merge 📜
+### 📜 Checklist avant le merge 📜
 
 **Avant de merge cette Pull Request, assure-toi que tous ces points ont été complétés :**
 
@@ -18,6 +18,6 @@ _Seulement si la PR contient du front_
 > _Liens de la PR correspondante sur le repo [web](https://github.com/epicery/web)_
 
 
-###⚙️ Liens avec les autres outils ⚙️
+### ⚙️ Liens avec les autres outils ⚙️
 
 Clickup: CU-DEV-[...]
