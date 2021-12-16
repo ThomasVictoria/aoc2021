@@ -9,4 +9,5 @@ import (
 func main() {
 	rawData := strings.Split(aoc.DecodeInput("15"), "\n")
 
+	// lol ça marche pas
 }
