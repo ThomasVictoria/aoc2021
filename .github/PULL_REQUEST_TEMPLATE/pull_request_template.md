@@ -1,3 +1,9 @@
+---
+name: Design Review
+about: Design Review issue template
+
+---
+
 ### ℹ️ Quel est le problème que cette PR résoud ? ℹ️
 
 [...]
